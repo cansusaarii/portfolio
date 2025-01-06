@@ -4,7 +4,7 @@
 
 # Education
 
-• Bachelor of Science in Computer Education and Educational Technology, Boğaziçi University, Turkey (2024)
+• Bachelor of Science in Computer Education and Educational Technology, Boğaziçi University, Turkey (2025)
 
 • Erasmus Program Participant, Informatics Department, University of Bremen, Germany (2023)
 
