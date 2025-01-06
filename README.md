@@ -15,11 +15,6 @@ Data analysis and model evaluation on the retail dataset I made while participat
 
 - [Retail Dataset - EDA & Prediction](https://github.com/cansusaarii/Retail-dataset-analysis)
 
-### Stock Market Analysis
-A course project I took on data analysis and visualization with Python.
-
-- [Stock Market Data Analysis](https://github.com/cansusaarii/stock-market-analysis)
-
 ### Iris Data Visualization
 Exploring basic visualization techniques to better understand the dataset, using Matplotlib and Seaborn libraries.
 
@@ -31,6 +26,16 @@ Project to predict the likelihood of heart attack based on key health metrics an
 
 - [Predict Heart Attacks Data Driven Approach](https://www.kaggle.com/code/cansusary/predicting-heart-attacks-data-driven-approach)
 - [Heart Disease Insights - Tableau Dashboard](https://public.tableau.com/app/profile/cansu.sari/viz/HeartDiseaseInsights_17350302495600/Dashboard1)
+
+### Red Wine Quality Analysis & EDA & Visualization & Model Evaluation
+This project explores the Red Wine Quality Dataset, aiming to analyze the relationships between various physicochemical properties and wine quality. By applying both supervised and unsupervised learning techniques, the goal is to uncover patterns and factors influencing the sensory quality of red wine.
+
+- [Red Wine Quality Analysis]([https://www.kaggle.com/code/cansusary/red-wine-quality-eda-model-evaluation])
+
+### Stock Market Analysis
+A course project I took on data analysis and visualization with Python.
+
+- [Stock Market Data Analysis](https://github.com/cansusaarii/stock-market-analysis)
 
 ### House Price Prediction & EDA 
 The goal is to create a model that can accurately predict the final sale price for each house in the test set using advanced regression techniques.
