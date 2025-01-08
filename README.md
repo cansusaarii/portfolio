@@ -31,6 +31,7 @@ Project to predict the likelihood of heart attack based on key health metrics an
 This project explores the Red Wine Quality Dataset, aiming to analyze the relationships between various physicochemical properties and wine quality. By applying both supervised and unsupervised learning techniques, the goal is to uncover patterns and factors influencing the sensory quality of red wine.
 
 - [Red Wine Quality Analysis](https://www.kaggle.com/code/cansusary/red-wine-quality-eda-model-evaluation)
+- [Red Wine Quality Trends - Tableau Dashboard](https://public.tableau.com/app/profile/cansu.sari/viz/WineQualityTrends/WineQualityTrends)
 
 ### Stock Market Analysis
 A course project I took on data analysis and visualization with Python.
