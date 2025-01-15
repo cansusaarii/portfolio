@@ -15,6 +15,10 @@ Data analysis and model evaluation on the retail dataset I made while participat
 
 - [Retail Dataset - EDA & Prediction](https://github.com/cansusaarii/Retail-dataset-analysis)
 
+### E-Commerce Analytics
+This project provides a comprehensive guide to exploring, analyzing, and deriving actionable insights from an e-commerce dataset.
+- [E-commerce Analytics](https://github.com/cansusaarii/e-commerce-analytics)
+
 ### Iris Data Visualization
 Exploring basic visualization techniques to better understand the dataset, using Matplotlib and Seaborn libraries.
 
