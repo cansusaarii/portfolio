@@ -1,6 +1,10 @@
 # cansunazsari.github.io
 
-#### Technical Skills: Python, SQL, Tableau
+## Technical Skills: 
+#### Programming Languages: Python, C, C#
+#### Data Analysis and ML : Pandas, NumPy, Scikit-learn
+#### Database Management: SQL, BigQuery, MSSQL
+#### Data Visualization : Matplotlib, Seaborn, Tableau, Looker
 
 # Education
 
